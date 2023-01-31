@@ -7,7 +7,7 @@ function mostrar()
 	// var edad;
 	let nombreCompleto;// Notacion Lower camel case
 
-	// nombre = "messi"; // Asignacion de string.
+	// nombre = "master"; // Asignacion de string.
 	nombre = prompt ("ingrese un nombre")
 
 	// mostrar por alert
